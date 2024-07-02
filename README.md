@@ -4,15 +4,4 @@ A key component of my PhD thesis was to investigate whether wheat yields have st
 
 [Link to PhD Thesis can be found here.](https://eprints.nottingham.ac.uk/67256/)
 
-### Parameter estimation
-
-Maximum likelihood estimator.
-
-### Endpoint estimation
-
-
-### Stratifying data - Pesticide use & location
-
-
-
 
